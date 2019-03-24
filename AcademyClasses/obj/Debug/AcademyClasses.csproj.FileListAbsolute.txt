@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\c#\AcademyManagementApp\AcademyClasses\bin\Debug\AcademyClasses.dll
+C:\Users\Asus\Desktop\c#\AcademyManagementApp\AcademyClasses\bin\Debug\AcademyClasses.pdb
+C:\Users\Asus\Desktop\c#\AcademyManagementApp\AcademyClasses\obj\Debug\AcademyClasses.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c#\AcademyManagementApp\AcademyClasses\obj\Debug\AcademyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c#\AcademyManagementApp\AcademyClasses\obj\Debug\AcademyClasses.dll
+C:\Users\Asus\Desktop\c#\AcademyManagementApp\AcademyClasses\obj\Debug\AcademyClasses.pdb
